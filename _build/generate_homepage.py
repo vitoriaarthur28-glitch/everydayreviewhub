@@ -20,17 +20,17 @@ CATEGORIES = {
         "sugarreset","zensulin",
     ],
     "Weight Management": [
-        "alkaburn","aquafit","aquasculpt","burntide","fitspresso","floranew","gelatin-meister-fr","gelatin-meister-de",
+        "alkaburn","aquafit","aquasculpt","burntide","fitspresso","floranew",
         "gelatide","gelatide1","gelatinesculpt","gumitide","lipoflow","metarise",
         "slimforce","slimrise","slimset","slimtide","sodaburn","sodafit",
         "sodaslim","vittaburn",
     ],
     "Brain & Memory": [
-        "brainlive","javacept","memocept","memoclear","memodyne","memohoney","memo-meister-fr","memo-meister-de",
+        "brainlive","javacept","memocept","memoclear","memodyne","memohoney",
         "memopezil","honeypezil","mindvault","neuromind-pro","neurosharp","synaptigen","vapocept",
     ],
     "Nerve Support": [
-        "arialief","nervecalm","nervecept","nerve-harmony","nervolyn","nervovive","nervexa-fr","nervexa-de",
+        "arialief","nervecalm","nervecept","nerve-harmony","nervolyn","nervovive",
         "neuro-cinnamon","neurosalt",
     ],
     "Male Vitality": [
