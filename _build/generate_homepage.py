@@ -39,6 +39,7 @@ CATEGORIES = {
         "jellyfil","maxforce","maxorin","maxvitalize","nitricboost","ragnaroak",
         "sodaboost","sodahorsepeak","sodapeak","sodapril","tupitea","vigorhorse","vigorpeak",
         "vigorrise",
+        "magnora","magnora-fr",
     ],
     "Digestive & Gut Health": [
         "alkatide","digestsync","gutsave","sodamelt","sodatide","synogut",
