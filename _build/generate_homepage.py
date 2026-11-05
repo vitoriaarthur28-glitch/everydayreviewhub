@@ -37,7 +37,7 @@ CATEGORIES = {
         "alphasteel","alphasurge","blackwoodtea","boostaro","gelafil","giantmax",
         "heroup","honeyboost","horseboost","horsefil","horsewood","jellyboost",
         "jellyfil","maxforce","maxorin","maxvitalize","nitricboost","ragnaroak",
-        "sodaboost","sodahorsepeak","sodapeak","tupitea","vigorhorse","vigorpeak",
+        "sodaboost","sodahorsepeak","sodapeak","sodapril","tupitea","vigorhorse","vigorpeak",
         "vigorrise",
     ],
     "Digestive & Gut Health": [
