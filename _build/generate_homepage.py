@@ -80,6 +80,9 @@ CATEGORIES = {
     "Pet Health": [
         "pawbiotix",
     ],
+    "Home & Gadgets": [
+        "fizzclean-fr",
+    ],
 }
 
 # German-language products go in a separate section
