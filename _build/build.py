@@ -33,6 +33,8 @@ LANGS = {
     # "he" = produtos anunciados em hebraico (pedido do usuario em 2026-11-05, primeiro: Virdexis). Mesmas regras da secao 14.
     "he": {"html": "he-IL", "og": "he_IL", "close": "סגור", "official": "האתר הרשמי", "bottles": "בקבוקים",
            "home": "דף הבית", "review": "ביקורת"},
+    "sv": {"html": "sv-SE", "og": "sv_SE", "close": "Stäng", "official": "officiella webbplatsen", "bottles": "flaskor",
+           "home": "Hem", "review": "Recension"},
 }
 
 
